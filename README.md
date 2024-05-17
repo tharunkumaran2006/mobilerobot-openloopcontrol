@@ -124,14 +124,8 @@ if __name__ == '__main__':
 <br/>
 
 ## MobileRobot Movement Video:
-
-Upload your video in Youtube and paste your video-id here
-
-[![IMAGE ALT TEXT HERE](https://youtu.be/DI4lqbV5aQU?si=p9tiFasFxMzKM2kh)
-
-<br/>
-<br/>
-<br/>
+#### Youtube video link:
+https://youtu.be/DI4lqbV5aQU?si=p9tiFasFxMzKM2k
 <br/>
 
 ## Result:
